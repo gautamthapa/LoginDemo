@@ -19,7 +19,8 @@
         <activity android:name=".LoginActivity" />
         <activity android:name=".SignUpActivity" />
         <activity android:name=".AppBarProfile" />
-        <activity android:name=".ProfileFragment"></activity>
+        <activity android:name=".ProfileFragment" />
+        <activity android:name=".EditProfileActivity"></activity>
     </application>
 
 </manifest>
